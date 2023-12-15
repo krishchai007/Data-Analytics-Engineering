@@ -1,1 +1,1 @@
-# Data-Analytics-Engineering
+# Welcome to my repository showcasing a collection of data analytics and engineering projects. Leveraging a technical stack encompassing Python, SQL, Tableau, and Power BI, along with cloud technologies like AWS and GCP, I've enjoyed delving into diverse projects. Take a moment to explore my work, and stay tuned for upcoming projects in the pipeline. Your feedback is always welcome!
